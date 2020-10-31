@@ -1,0 +1,242 @@
+@media (max-width: 479px){
+
+    .wrap {
+        margin: 0 auto;
+    }
+
+    .container {
+        text-align:center;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .hamburger div{
+        display: block;
+    }
+    
+    .header {
+        height: 100vh;
+    }
+     
+    .nav-bar {
+        display: none;
+
+    }
+
+    .about-main-text {
+        margin-bottom: 20px;
+    }
+    .imgc {
+        margin:15px;
+    }
+
+    .header-services-wrap {
+        flex-direction:column;
+        align-items: center;
+    }
+    .header-services{
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+
+    .services-text {
+        margin-bottom:15px;
+    }
+
+    .about-img-box {
+        flex-direction: column;
+        align-items:center;
+    }
+    .header-services-wrap {
+        flex-direction:column;
+        align-items: center;
+    }
+    .header-services{
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+
+    .services-text {
+        margin-bottom:15px;
+    }
+
+    .main-services-wrap {
+        flex-direction: column;
+        margin:0 auto;
+        align-items: center;
+    }
+
+    .card-center {
+        margin:10px 0 10px;
+    }
+
+    .services {
+        margin-top:60px;
+    }
+
+    .card-subtitle {
+        max-width: 180px;
+    }
+
+    .card-text {
+        max-width: 180px;
+    }
+
+    .card {
+        width:210px;
+    }
+
+    .newsletter-form-fields {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .newsletter-title {
+        font-size:16px;
+    }
+
+    .newsletter-email {
+        width:180px;
+        margin-bottom: 15px;
+    } 
+  
+    .newsletter-wrap {
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+        justify-content:center;
+    }
+
+    .services__button--padding {
+        padding:11px 15px;
+    }
+
+    .links-wrap-center {
+        margin-right: 15px;
+    }
+
+    .company-contacts-wrap {
+        text-align: left;
+        margin-bottom: 0px;
+    }
+
+    .company-wrap {
+        text-align: left;
+    }
+
+    .links-contacts {
+        padding-bottom: 15px;
+    }
+
+    .links-wrap-center__faq{
+        padding-top:40px;
+    }
+
+    .social-links {
+        padding-top:40px;
+        padding-bottom: 40px;
+    }
+
+    .data-email{
+        padding-bottom: 10px;
+
+    }
+
+
+    .company-text {
+        padding-bottom:10px;
+    }
+    
+    .social-links {
+        margin:0 auto;
+    }
+}
+
+@media (max-width: 768px){
+    .wrap {
+        margin: 0 auto;
+    }
+
+    .container {
+        text-align:center;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .hamburger div{
+        display: block;
+    }
+
+    .nav-bar {
+        display: none;
+    }
+
+    .about-main-text {
+        margin-bottom: 20px;
+    }
+
+    .about-text-box {
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .about-img-box {
+        margin:0 auto;
+    }
+
+    .header-services-wrap {
+        flex-direction:column;
+        align-items: center;
+    }
+    .header-services{
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+
+    .services-text {
+        margin-bottom:15px;
+    }
+
+    .main-services-wrap {
+        flex-direction: column;
+        margin:0 auto;
+        align-items: center;
+    }
+
+    .card-center {
+        margin:10px 0 10px;
+    }
+
+    .services {
+        margin-top:60px;
+    }
+
+    .card {
+        text-align: left;
+    }
+
+    .newsletter-form-fields {
+        padding-bottom: 35px;
+    }
+
+    .links-wrap-center {
+        margin-right: 30px;
+    }
+
+    .company-contacts-wrap {
+        text-align: left;
+    }
+
+    .company-wrap {
+        text-align: left;
+    }
+
+    
+
+
+
+}
